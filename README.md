@@ -19,7 +19,7 @@ These are meant to be imported as sources into NotebookLM to assist in prompt de
 1. **Import into NotebookLM**  
    - Open [NotebookLM](https://notebooklm.google).
    - Import the following as sources:
-     - Prompts from `other_repos/` like 
+     - Prompts from `other_repos/` like https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools
      - [Google's Whitepaper Prompt Engineering Guide](https://www.gptaiflow.tech/assets/files/2025-01-18-pdf-1-TechAI-Goolge-whitepaper_Prompt%20Engineering_v4-af36dcc7a49bb7269a58b1c9b89a8ae1.pdf)
 
 2. **Use the Meta-Prompt Template**  
